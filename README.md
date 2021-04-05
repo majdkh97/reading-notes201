@@ -12,7 +12,7 @@
 |        Assignment         |              Link              |
 | :-------------------------| :----------------------------- |
 |  Read: 01                 |  [Read:01 ](Assignment01.md)   |
-|  Read: 02                 |                                | 
+|  Read: 02                 |  [Read:02 ](Assignment02.md)   | 
 |  Read: 03                 |                                |
 |  Read: 04                 |                                |
 |  Read: 05                 |                                |
