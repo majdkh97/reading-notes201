@@ -19,4 +19,5 @@
 |  Read: 06                 |  [Read:06 ](Assignment06.md)   |
 |  Read: 07                 |  [Read:07 ](Assignment07.md)   |
 |  Read: 08                 |  [Read:08 ](Assignment08.md)   |
-|  Read: 09                 |  [Read:09 ](Assignment09.md)   |         
+|  Read: 09                 |  [Read:09 ](Assignment09.md)   |
+|  Read: 10                 |  [Read:10 ](Assignment10.md)   |     

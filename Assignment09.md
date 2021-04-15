@@ -19,3 +19,5 @@ Examples of HTML events:
 - When a web page has loaded
 - When an image has been loaded
 - When the mouse moves over an element
+
+[Go Back ](README.md)
