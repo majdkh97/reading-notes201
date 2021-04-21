@@ -25,3 +25,5 @@
 |  Read: 12                 |  [Read:12 ](Assignment12.md)   |
 |  Read: 13                 |  [Read:13 ](Assignment13.md)   |
 |  Read: 14a                |  [Read:14a](Assignment14a.md)  |
+|  Read: 14b                |  [Read:14b](Assignment14b.md)  |
+

@@ -18,3 +18,5 @@
 **CSS allows animation of HTML elements without using JavaScript or Flash!**
 - An animation lets an element gradually change from one style to another.
 - You can change as many CSS properties you want, as many times you want.
+
+[Go Back ](README.md)
